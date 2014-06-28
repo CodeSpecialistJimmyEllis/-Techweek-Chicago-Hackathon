@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelHackVideoGame", "AngelHackVideoGame\AngelHackVideoGame.csproj", "{D6B19617-C434-4F2E-9C4F-7B56690C26C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapLibrary", "..\..\..\..\Desktop\angelhack 100\LEAPLibrary\LeapLibrary.csproj", "{B2AA5DA6-0FA6-42A4-813F-0480460F0820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B19617-C434-4F2E-9C4F-7B56690C26C8}.Debug|x86.ActiveCfg = Debug|x86
+		{D6B19617-C434-4F2E-9C4F-7B56690C26C8}.Debug|x86.Build.0 = Debug|x86
+		{D6B19617-C434-4F2E-9C4F-7B56690C26C8}.Release|x86.ActiveCfg = Release|x86
+		{D6B19617-C434-4F2E-9C4F-7B56690C26C8}.Release|x86.Build.0 = Release|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Debug|x86.ActiveCfg = Debug|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Debug|x86.Build.0 = Debug|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Release|x86.ActiveCfg = Release|x86
+		{B2AA5DA6-0FA6-42A4-813F-0480460F0820}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
